@@ -50,7 +50,4 @@ The dataset contains customer usage and behavioral data. The key features includ
 - **Feature Selection:** Identifying the most relevant features for churn prediction.
 - **Optimizing Model Performance:** Tuning hyperparameters to improve classification metrics.
 
-## How to Use This Repository
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/telecom-churn-prediction.git
+
