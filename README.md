@@ -40,9 +40,9 @@ The dataset contains customer usage and behavioral data. The key features includ
 ## Model Performance
 | Model | Accuracy | F1 Score | ROC-AUC |
 |--------|------------|------------|------------|
-| Logistic Regression | XX% | XX | XX |
-| Random Forest | XX% | XX | XX |
-| XGBoost | XX% | XX | XX |
+| Logistic Regression | 80.67% | 0.434 | 0.873 |
+| Random Forest | 87.5% | 0.523 | 0.842 |
+| XGBoost | 87.1% | 0.501 | 0.878 |
 | SVM | 90.67% | 0.115 | 0.855 |
 
 ## Challenges Faced
